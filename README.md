@@ -21,6 +21,6 @@ SO THAT I can plan a trip accordingly
 
 Github Username: snowlxy1202
 
-Gihub Repo Link: <https://github.com/snowlxy1202/professional-readme-generator>
+Gihub Repo Link: <https://github.com/snowlxy1202/weather_dashboard>
 
 
