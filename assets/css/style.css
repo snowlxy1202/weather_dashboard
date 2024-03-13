@@ -1,0 +1,14 @@
+.header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+};
+
+.search-title {
+    font-size: x-large;
+    text-align: center;
+};
+
+#city-input {
+    align-items: center;
+};
